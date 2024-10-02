@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on discord selfbotting technology
+- 🔭 I’m currently working on a Serie Downloading tool in C#
 
-- 🌱 I’m currently learning JavaScript, Python, C#, C++
+- 🌱 I’m currently learning C#, C, C++
 - Maybe I'll release something related to backend technology
 
 
